@@ -39,6 +39,7 @@
 ### 技术博客
 
 > http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html
+
 > http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
 
 
