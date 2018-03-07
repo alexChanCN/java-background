@@ -33,8 +33,7 @@
 
 - **熟悉 Linux 系统基本操作**
 
-- **IDE**
-- Idea
+- **IDE** : Idea
 
 
  
